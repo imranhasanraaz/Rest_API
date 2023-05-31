@@ -1,0 +1,9 @@
+{
+  "userIdPostWithId99": "10",
+  "postId99": "99",
+  "invalidPostId": "150",
+  "expectedBodyForInvalidPostId": "{}",
+  "userIdForCreatingPost": "1",
+  "userId5": "5",
+  "lengthOfRandomString": "10"
+}
