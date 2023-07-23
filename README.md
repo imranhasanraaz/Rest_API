@@ -1,7 +1,3 @@
-
-## Level 2 - task 4
-> a1qa study project
-> 
 Testing a [fake API](https://jsonplaceholder.typicode.com/), by making requests with the standard Java http package. 
 Libraries used in this project: (aquality) Selenium, TestNG, gson. 
 
